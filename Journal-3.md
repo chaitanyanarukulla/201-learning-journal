@@ -5,4 +5,4 @@ Block elements
 objects
 methods
 constructer Functions
-and Forloops in Constructer function
+and For loops in Constructer function
