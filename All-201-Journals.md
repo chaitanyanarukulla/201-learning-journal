@@ -51,3 +51,7 @@ Things i learnt today
 1. more about git hub and solve merge conflicts
 2. how to pair program with more then one partner
 3. how to create a basic layout for a project
+
+1. leant  how to work in a group and multiple pair programming,
+2. how to solve merge conflicts
+3. hot to solve git hub issues
