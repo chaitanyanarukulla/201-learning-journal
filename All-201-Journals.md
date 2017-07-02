@@ -60,3 +60,4 @@ Things i learnt today
 2. how to call Function so they have delay of time,
 
 1. how to present our class Projects
+2. How to use library to style Css
