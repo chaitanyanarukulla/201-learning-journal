@@ -55,3 +55,8 @@ Things i learnt today
 1. leant  how to work in a group and multiple pair programming,
 2. how to solve merge conflicts
 3. hot to solve git hub issues
+
+1. how to use timer in javascript
+2. how to call Function so they have delay of time,
+
+1. how to present our class Projects
