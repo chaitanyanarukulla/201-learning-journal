@@ -13,3 +13,8 @@ JQuery : is an library of java script functions that make it easy on developers 
 handlebars : Library which makes rendering To DOM very Easy ,
           use script tags in Html to place content using " {{}} " .
           and this can be manipulated using  javascript and jqury
+
+Events = $('select  what you want to target').('give it a method'){
+  have it do something
+}
+
