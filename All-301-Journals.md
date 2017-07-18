@@ -10,10 +10,10 @@ IcoMoon :Is an icon solution, providing  services like  Vector Icon Packs, The I
 JQuery : is an library of java script functions that make it easy on developers to  manipulate the webpage responding to users events, building animations and much more
 <makes it easy to grab elements on html by css selectors and do stuff with it>
 
-
 handlebars : Library which makes rendering To DOM very Easy ,
           use script tags in Html to place content using " {{}} " .
           and this can be manipulated using  javascript and jqury
+
 
 
 
@@ -28,3 +28,8 @@ Braking down URL
  Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
 
  node Express: Express is a minimal and flexible Node.js web application framework that provides a robust set of features to develop web and mobile applications. It facilitates the rapid development of Node based Web applications
+=======
+Events = $('select  what you want to target').('give it a method'){
+  have it do something
+}
+
