@@ -15,8 +15,6 @@ handlebars : Library which makes rendering To DOM very Easy ,
           use script tags in Html to place content using " {{}} " .
           and this can be manipulated using  javascript and jqury
 
-
-
 Braking down URL
   Https://Blog.mysite.io/Articles/1
   { Https     = protocpl
@@ -27,4 +25,4 @@ Braking down URL
 
  Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
 
- node Express: Express is a minimal and flexible Node.js web application framework that provides a robust set of features to develop web and mobile applications. It facilitates the rapid development of Node based Web applications
+ node Express: Express is a minimal and flexible Node.js web application framework that provides a robust set of features to develop web and mobile applications. It facilitates the rapid development of Node based Web applications node Express: Express is a minimal and flexible Node.js web application framework that provides a robust set of features to develop web and mobile applications. It facilitates the rapid development of Node based Web applications
