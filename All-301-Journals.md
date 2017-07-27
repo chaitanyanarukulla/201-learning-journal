@@ -10,9 +10,6 @@ IcoMoon :Is an icon solution, providing  services like  Vector Icon Packs, The I
 JQuery : is an library of java script functions that make it easy on developers to  manipulate the webpage responding to users events, building animations and much more
 <makes it easy to grab elements on html by css selectors and do stuff with it>
 
-handlebars : Library which makes rendering To DOM very Easy ,
-          use script tags in Html to place content using " {{}} " .
-          and this can be manipulated using  javascript and jqury
 
 
 
@@ -35,3 +32,8 @@ Events = $('select  what you want to target').('give it a method'){
 Model–view–controller (MVC) is a software architectural pattern for implementing user interfaces on computers. It divides a given application into three interconnected parts in order to separate internal representations of information from the ways that information is presented to and accepted from the user.
 
 Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. Node.js' package ecosystem, npm, is the largest ecosystem of open source libraries in the world.
+
+
+handlebars : Library which makes rendering To DOM very Easy ,
+          use script tags in Html to place content using " {{}} " .
+          and this can be manipulated using  javascript and jqury
